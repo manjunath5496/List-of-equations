@@ -1,3 +1,6 @@
+<h2> List of Equations </h2>
+
+
 <table class="multicol" style="width: 803px;">
 <tbody>
 <tr>
@@ -172,6 +175,7 @@
 <li><a title="Telegrapher's equations" href="https://en.wikipedia.org/wiki/Telegrapher%27s_equations">Telegrapher's equations</a></li>
 </ul>
 <p>&nbsp;</p>
+  <hr>
 <p>&nbsp;</p>
 <ul>
 <li><a title="" href="https://en.wikipedia.org/wiki/List_of_equations_in_classical_mechanics">List of equations in classical mechanics</a></li>
